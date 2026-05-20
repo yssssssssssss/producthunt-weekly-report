@@ -18,6 +18,20 @@
 
 ## Codex 采集流程
 
+公网访问：
+
+```text
+https://yssssssssssss.github.io/producthunt-weekly-report/
+```
+
+本地查看：
+
+```bash
+python3 -m http.server 8080 -d docs
+```
+
+然后访问 `http://localhost:8080`。
+
 查看还缺哪些周：
 
 ```bash
@@ -69,14 +83,6 @@ python3 tools/ph_report.py validate data/weeks/2026-W01.json
 python3 tools/ph_report.py render
 ```
 
-本地查看：
-
-```bash
-python3 -m http.server 8080 -d docs
-```
-
-然后访问 `http://localhost:8080`。
-
 ## 每个项目需要包含什么
 
 每个 Top 50 项目至少要有：
@@ -102,11 +108,14 @@ python3 -m http.server 8080 -d docs
 
 ## 部署建议
 
-优先用 GitHub Pages：
+当前已使用 GitHub Pages 部署，发布源是 `main` 分支的 `docs/` 目录：
 
-1. 把这个目录推到 GitHub 仓库。
-2. Settings → Pages 选择 `docs/` 目录发布。
-3. Codex 每周更新本地数据和 HTML 后，你把变更推到 GitHub，页面就更新。
+```text
+https://github.com/yssssssssssss/producthunt-weekly-report
+https://yssssssssssss.github.io/producthunt-weekly-report/
+```
+
+Codex 每周更新本地数据和 HTML 后，会提交并推送到 GitHub，GitHub Pages 随后刷新公网页面。
 
 Cloudflare Pages 也合适：连接 GitHub 仓库，把 `docs/` 作为静态输出目录。Vercel 也能用，但对一个静态报告偏重。
 

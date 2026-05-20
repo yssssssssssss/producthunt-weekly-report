@@ -6,6 +6,8 @@ on:
     paths:
       - "data/weeks/**"
       - "docs/**"
+      - "tools/collect_agent_browser.py"
+      - "tools/enrich_agent_browser.py"
       - "tools/ph_report.py"
 
 permissions:
