@@ -1,0 +1,47 @@
+name: Validate Product Hunt Weekly Report
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/weeks/**"
+      - "docs/**"
+      - "tools/ph_report.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate researched data
+        run: |
+          set -euo pipefail
+          if compgen -G "data/weeks/*.json" > /dev/null; then
+            python3 tools/ph_report.py validate
+          else
+            echo "No week data yet."
+          fi
+
+      - name: Render static report
+        run: python3 tools/ph_report.py render
+
+      - name: Commit rendered report
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html
+          if git diff --cached --quiet; then
+            echo "No report changes."
+            exit 0
+          fi
+          git commit -m "Render Product Hunt weekly report"
+          git push
