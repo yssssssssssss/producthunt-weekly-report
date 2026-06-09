@@ -1,0 +1,3379 @@
+{
+  "schema_version": 1,
+  "year": 2026,
+  "week": 21,
+  "week_start": "2026-05-18",
+  "week_end": "2026-05-24",
+  "source_url": "https://www.producthunt.com/leaderboard/weekly/2026/21/all",
+  "generated_at": "2026-06-09T03:05:16+00:00",
+  "top_n": 50,
+  "collection_method": "codex_app_agent_browser_apollo_fetch_more",
+  "collection_notes": [
+    "Collected 50 ranked Product Hunt posts through the page Apollo client.",
+    "This pass stores leaderboard metadata first; product detail pages, user feedback, and official websites still need enrichment.",
+    "Deep-enriched 50 item(s) via Product Hunt detail pages and official websites."
+  ],
+  "pagination": {
+    "pages_fetched": 4,
+    "ranked_count": 50,
+    "last_page_info": {
+      "endCursor": "UG9zdDpOamM6MQ",
+      "hasNextPage": true,
+      "__typename": "PageInfo"
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "fallback_rank": 1,
+      "id": "1144771",
+      "name": "StoreClaw",
+      "slug": "storeclaw",
+      "tagline": "Grow your store profits with agents that know how to sell",
+      "description": "Grow your store profits with agents that know how to sell",
+      "product_url": "https://www.producthunt.com/products/storeclaw",
+      "website_url": "",
+      "votes_count": 877,
+      "comments_count": 280,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/storeclaw"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "StoreClaw 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 1，获得 877 票、280 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。StoreClaw 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 2,
+      "fallback_rank": 2,
+      "id": "1135604",
+      "name": "PollyReach",
+      "slug": "pollyreach",
+      "tagline": "Give your agent a real number and voice to make calls.",
+      "description": "Give your agent a real number and voice to make calls.",
+      "product_url": "https://www.producthunt.com/products/pollyreach",
+      "website_url": "",
+      "votes_count": 814,
+      "comments_count": 218,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "a4ef6a7a-4563-402b-8578-1681fbdc19d8.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/pollyreach"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "PollyReach 是一个人工智能音频/语音工具，核心围绕语音生成、音频处理、声音交互或内容校验展开。它面向希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于人工智能音频/语音工具方向，周榜排名第 2，获得 814 票、218 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。PollyReach 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 3,
+      "fallback_rank": 3,
+      "id": "1124409",
+      "name": "SocLeads 3.0",
+      "slug": "socleads-3-0",
+      "tagline": "Scrape emails from socials and maps by location",
+      "description": "Scrape emails from socials and maps by location",
+      "product_url": "https://www.producthunt.com/products/socleads",
+      "website_url": "",
+      "votes_count": 583,
+      "comments_count": 96,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-18T00:01:00-07:00",
+      "thumbnail_url": "9443342b-bf19-49c4-8423-5e1db1415f15.jpeg",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/socleads"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "SocLeads 3.0 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 3，获得 583 票、96 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "社交/网络效应产品需要解决冷启动和持续使用频率；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。SocLeads 3.0 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 4,
+      "fallback_rank": 4,
+      "id": "1134267",
+      "name": "mailX by mailwarm",
+      "slug": "mailx-by-mailwarm",
+      "tagline": "Email deliverability toolkit for humans and AI agents",
+      "description": "Email deliverability toolkit for humans and AI agents",
+      "product_url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
+      "website_url": "",
+      "votes_count": 619,
+      "comments_count": 263,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "9d9e986f-969d-4a67-9a15-e6733097da14.gif",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "name": "Email Marketing",
+          "slug": "email-marketing"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "mailX by mailwarm 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 4，获得 619 票、263 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。mailX by mailwarm 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 5,
+      "fallback_rank": 5,
+      "id": "1147569",
+      "name": "LobeHub",
+      "slug": "lobehub-2",
+      "tagline": "Your Chief Agent Operator for multi-agent work",
+      "description": "Your Chief Agent Operator for multi-agent work",
+      "product_url": "https://www.producthunt.com/products/lobehub",
+      "website_url": "",
+      "votes_count": 503,
+      "comments_count": 81,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-18T00:01:00-07:00",
+      "thumbnail_url": "d91fc33b-29d2-4222-b0dc-977c6a78a670.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/lobehub"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "LobeHub 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 5，获得 503 票、81 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。LobeHub 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 6,
+      "fallback_rank": 6,
+      "id": "1152148",
+      "name": "Tycoon AI ",
+      "slug": "tycoon-ai",
+      "tagline": "Run one-person companies entirely with AI agents",
+      "description": "Run one-person companies entirely with AI agents",
+      "product_url": "https://www.producthunt.com/products/tycoon-us",
+      "website_url": "",
+      "votes_count": 568,
+      "comments_count": 114,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-21T00:01:00-07:00",
+      "thumbnail_url": "8148cb1b-0da3-4574-9f71-08798b552316.svg",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/tycoon-us"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Tycoon AI 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 6，获得 568 票、114 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Tycoon AI  值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 7,
+      "fallback_rank": 7,
+      "id": "1144878",
+      "name": "TestSprite 3.0",
+      "slug": "testsprite-3-0",
+      "tagline": "Let a fleet of parallel agents test your app in minutes",
+      "description": "Let a fleet of parallel agents test your app in minutes",
+      "product_url": "https://www.producthunt.com/products/testsprite",
+      "website_url": "",
+      "votes_count": 491,
+      "comments_count": 68,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "50434618-8b14-40d7-9958-db6ef9c84ccb.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/testsprite"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "TestSprite 3.0 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 7，获得 491 票、68 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。TestSprite 3.0 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 8,
+      "fallback_rank": 8,
+      "id": "1151377",
+      "name": "Stitch 3.0 by Google",
+      "slug": "stitch-3-0-by-google",
+      "tagline": "Generate and iterate UI screens with AI on a live canvas",
+      "description": "Generate and iterate UI screens with AI on a live canvas",
+      "product_url": "https://www.producthunt.com/products/stitch-by-google",
+      "website_url": "",
+      "votes_count": 541,
+      "comments_count": 19,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-24T00:01:00-07:00",
+      "thumbnail_url": "2704ac79-abf6-42dc-a56f-b8ae1cb13896.jpeg",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/stitch-by-google"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Stitch 3.0 by Google 是一个设计/创意工具，核心围绕设计协作、创意生成、原型制作或视觉生产展开。它面向设计师、产品经理和前端团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "设计师、产品经理和前端团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于设计/创意工具方向，周榜排名第 8，获得 541 票、19 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Stitch 3.0 by Google 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 9,
+      "fallback_rank": 9,
+      "id": "1150337",
+      "name": "Composer 2.5",
+      "slug": "composer-2-5-6",
+      "tagline": "Cursor’s most powerful model yet",
+      "description": "Cursor’s most powerful model yet",
+      "product_url": "https://www.producthunt.com/products/cursor",
+      "website_url": "",
+      "votes_count": 436,
+      "comments_count": 12,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "d2edfb12-0064-4ea2-af46-12b43bbb2842.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/cursor"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Composer 2.5 是一个垂直场景产品，核心围绕特定垂直场景中的用户任务展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于垂直场景产品方向，周榜排名第 9，获得 436 票、12 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Composer 2.5 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 10,
+      "fallback_rank": 10,
+      "id": "1150124",
+      "name": "Emdash",
+      "slug": "emdash",
+      "tagline": "One app. Every coding agent. Open-source.",
+      "description": "One app. Every coding agent. Open-source.",
+      "product_url": "https://www.producthunt.com/products/emdash",
+      "website_url": "",
+      "votes_count": 424,
+      "comments_count": 92,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "4b4feac9-ff8d-4091-aecb-78859d285f91.x-icon",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/emdash"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Emdash 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：开源。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：开源；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 10，获得 424 票、92 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Emdash 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 11,
+      "fallback_rank": 11,
+      "id": "1146684",
+      "name": "Drizz",
+      "slug": "drizz-2",
+      "tagline": "Mobile tests that write, run, and fix themselves",
+      "description": "Mobile tests that write, run, and fix themselves",
+      "product_url": "https://www.producthunt.com/products/drizz-2",
+      "website_url": "",
+      "votes_count": 397,
+      "comments_count": 67,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "2feba1f6-72fe-4135-aeb2-75a2f88f586c.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/drizz-2"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Drizz 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 11，获得 397 票、67 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Drizz 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 12,
+      "fallback_rank": 12,
+      "id": "1151095",
+      "name": "Gemini Omni",
+      "slug": "gemini-omni-4",
+      "tagline": "Create anything from any input – starting with video",
+      "description": "Create anything from any input – starting with video",
+      "product_url": "https://www.producthunt.com/products/gemini-omni-4",
+      "website_url": "",
+      "votes_count": 395,
+      "comments_count": 8,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "d0081810-ee52-41d6-b33e-163838981bc6.svg",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/gemini-omni-4"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Gemini Omni 是一个垂直场景产品，核心围绕特定垂直场景中的用户任务展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于垂直场景产品方向，周榜排名第 12，获得 395 票、8 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Gemini Omni 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 13,
+      "fallback_rank": 13,
+      "id": "1152537",
+      "name": "Cleo",
+      "slug": "cleo-4",
+      "tagline": "The AI PM that runs your team",
+      "description": "The AI PM that runs your team",
+      "product_url": "https://www.producthunt.com/products/cleo-4",
+      "website_url": "",
+      "votes_count": 399,
+      "comments_count": 81,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "5edce491-25ca-4a4e-ac6b-0521e5c83e07.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Alpha",
+          "slug": "alpha"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/cleo-4"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Cleo 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 13，获得 399 票、81 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Cleo 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 14,
+      "fallback_rank": 14,
+      "id": "1113430",
+      "name": "Mantle Chat",
+      "slug": "mantle-chat-2",
+      "tagline": "Collaboration platform where teams work with AI together",
+      "description": "Collaboration platform where teams work with AI together",
+      "product_url": "https://www.producthunt.com/products/mantle-chat",
+      "website_url": "",
+      "votes_count": 362,
+      "comments_count": 45,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "977f6301-b044-4702-893f-4e3419e560cd.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Messaging",
+          "slug": "messaging"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/mantle-chat"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Mantle Chat 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 14，获得 362 票、45 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Mantle Chat 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 15,
+      "fallback_rank": 15,
+      "id": "1148000",
+      "name": "Mintlify Workflows",
+      "slug": "mintlify-workflows-2",
+      "tagline": "Self-updating knowledge bases",
+      "description": "Self-updating knowledge bases",
+      "product_url": "https://www.producthunt.com/products/mintlify",
+      "website_url": "",
+      "votes_count": 351,
+      "comments_count": 40,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-21T00:01:00-07:00",
+      "thumbnail_url": "5daa9b0c-dec8-45be-856c-36a7e4957c32.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/mintlify"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Mintlify Workflows 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 15，获得 351 票、40 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Mintlify Workflows 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 16,
+      "fallback_rank": 16,
+      "id": "1129994",
+      "name": "General Compute",
+      "slug": "general-compute",
+      "tagline": "AI models that run on an inference cloud optimized for speed",
+      "description": "AI models that run on an inference cloud optimized for speed",
+      "product_url": "https://www.producthunt.com/products/general-compute",
+      "website_url": "",
+      "votes_count": 320,
+      "comments_count": 35,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "e7ecdc30-d819-457b-bd2c-c51b32c0379b.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "name": "Alpha",
+          "slug": "alpha"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/general-compute"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "General Compute 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 16，获得 320 票、35 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。General Compute 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 17,
+      "fallback_rank": 17,
+      "id": "1151355",
+      "name": "Google Antigravity 2.0",
+      "slug": "google-antigravity-2-0",
+      "tagline": "Orchestrate multi-agent workflows from a desktop app",
+      "description": "Orchestrate multi-agent workflows from a desktop app",
+      "product_url": "https://www.producthunt.com/products/google-antigravity",
+      "website_url": "",
+      "votes_count": 297,
+      "comments_count": 22,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-21T00:01:00-07:00",
+      "thumbnail_url": "64f05fed-5478-434e-b175-80b218391f8c.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/google-antigravity"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Google Antigravity 2.0 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 17，获得 297 票、22 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Google Antigravity 2.0 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 18,
+      "fallback_rank": 18,
+      "id": "1151120",
+      "name": "Runtime",
+      "slug": "runtime",
+      "tagline": "Sandboxed coding agents for everyone on your team",
+      "description": "Sandboxed coding agents for everyone on your team",
+      "product_url": "https://www.producthunt.com/products/runtime",
+      "website_url": "",
+      "votes_count": 302,
+      "comments_count": 79,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "67ea30b8-1bf6-44ba-99db-09c8498841d9.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Slack",
+          "slug": "slack"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/runtime"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Runtime 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 18，获得 302 票、79 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Runtime 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 19,
+      "fallback_rank": 19,
+      "id": "1153508",
+      "name": "ModelHub",
+      "slug": "modelhub",
+      "tagline": "The missing menu bar app for local LLMs on Mac.",
+      "description": "The missing menu bar app for local LLMs on Mac.",
+      "product_url": "https://www.producthunt.com/products/modelhub",
+      "website_url": "",
+      "votes_count": 329,
+      "comments_count": 45,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-24T00:01:00-07:00",
+      "thumbnail_url": "289a32f1-5f2b-49ef-9eb7-2aae920bb5e5.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/modelhub"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "ModelHub 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 19，获得 329 票、45 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。ModelHub 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 20,
+      "fallback_rank": 20,
+      "id": "779554",
+      "name": "WeWeb 3.0",
+      "slug": "weweb-3-0",
+      "tagline": "Vibe-code apps with the safety net of a no-code editor",
+      "description": "Vibe-code apps with the safety net of a no-code editor",
+      "product_url": "https://www.producthunt.com/products/weweb-io",
+      "website_url": "",
+      "votes_count": 292,
+      "comments_count": 87,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-21T00:01:00-07:00",
+      "thumbnail_url": "63f91d11-901f-4ea3-88e2-a60dc4764fe1.webp",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Website Builder",
+          "slug": "website-builder"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/weweb-io"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "WeWeb 3.0 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 20，获得 292 票、87 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。WeWeb 3.0 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 21,
+      "fallback_rank": 21,
+      "id": "1149049",
+      "name": "ReactVision Studio",
+      "slug": "reactvision-studio",
+      "tagline": "Build AR/VR Apps in React Native + ship directly to devices",
+      "description": "Build AR/VR Apps in React Native + ship directly to devices",
+      "product_url": "https://www.producthunt.com/products/reactvision-studio",
+      "website_url": "",
+      "votes_count": 274,
+      "comments_count": 17,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-18T00:01:00-07:00",
+      "thumbnail_url": "2392e869-311a-4527-8875-bd658e17a404.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Virtual Reality",
+          "slug": "virtual-reality"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Augmented Reality",
+          "slug": "augmented-reality"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/reactvision-studio"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "ReactVision Studio 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 21，获得 274 票、17 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。ReactVision Studio 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 22,
+      "fallback_rank": 22,
+      "id": "1145223",
+      "name": "Memdex",
+      "slug": "memdex",
+      "tagline": "Turn every AI conversation into reusable local memory",
+      "description": "Turn every AI conversation into reusable local memory",
+      "product_url": "https://www.producthunt.com/products/memdex",
+      "website_url": "",
+      "votes_count": 298,
+      "comments_count": 33,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-23T00:01:00-07:00",
+      "thumbnail_url": "50f52d54-3c4a-48fe-8d6e-46e1f389af62.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/memdex"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Memdex 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 22，获得 298 票、33 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Memdex 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 23,
+      "fallback_rank": 23,
+      "id": "1150296",
+      "name": "Freu AI",
+      "slug": "freu-ai-2",
+      "tagline": "Automate any Mac app with $0 recurring run cost",
+      "description": "Automate any Mac app with $0 recurring run cost",
+      "product_url": "https://www.producthunt.com/products/freu-cli",
+      "website_url": "",
+      "votes_count": 320,
+      "comments_count": 16,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-24T00:01:00-07:00",
+      "thumbnail_url": "fc1882f5-e334-45b1-9a9c-a274b0592ed3.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "name": "Business Intelligence",
+          "slug": "business-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/freu-cli"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Freu AI 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 23，获得 320 票、16 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Freu AI 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 24,
+      "fallback_rank": 24,
+      "id": "1152815",
+      "name": "WordPress 7.0",
+      "slug": "wordpress-7-0",
+      "tagline": "Introducing AI tools, new admin experience & design controls",
+      "description": "Introducing AI tools, new admin experience & design controls",
+      "product_url": "https://www.producthunt.com/products/wordpress-7-0",
+      "website_url": "",
+      "votes_count": 267,
+      "comments_count": 7,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "834157b6-01ba-4baa-9997-d039fee7d26b.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "WordPress",
+          "slug": "wordpress"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/wordpress-7-0"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "WordPress 7.0 是一个设计/创意工具，核心围绕设计协作、创意生成、原型制作或视觉生产展开。它面向设计师、产品经理和前端团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "设计师、产品经理和前端团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于设计/创意工具方向，周榜排名第 24，获得 267 票、7 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。WordPress 7.0 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 25,
+      "fallback_rank": 25,
+      "id": "1151353",
+      "name": "Google Antigravity CLI",
+      "slug": "google-antigravity-cli",
+      "tagline": "Run coding agents directly from your terminal",
+      "description": "Run coding agents directly from your terminal",
+      "product_url": "https://www.producthunt.com/products/google-antigravity",
+      "website_url": "",
+      "votes_count": 257,
+      "comments_count": 26,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-23T00:01:00-07:00",
+      "thumbnail_url": "64f05fed-5478-434e-b175-80b218391f8c.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/google-antigravity"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Google Antigravity CLI 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 25，获得 257 票、26 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Google Antigravity CLI 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 26,
+      "fallback_rank": 26,
+      "id": "1148531",
+      "name": "CtrlOps",
+      "slug": "ctrlops",
+      "tagline": "Deploy, Debug & Manage Linux Servers with AI.",
+      "description": "Deploy, Debug & Manage Linux Servers with AI.",
+      "product_url": "https://www.producthunt.com/products/ctrlops",
+      "website_url": "",
+      "votes_count": 247,
+      "comments_count": 61,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "2a1eb160-e2ce-4652-975c-4d715270bde7.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Linux",
+          "slug": "linux"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/ctrlops"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "CtrlOps 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 26，获得 247 票、61 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。CtrlOps 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 27,
+      "fallback_rank": 27,
+      "id": "1153243",
+      "name": "note.md",
+      "slug": "note-md",
+      "tagline": "Local-first markdown based workspace for research writings",
+      "description": "Local-first markdown based workspace for research writings",
+      "product_url": "https://www.producthunt.com/products/note-md",
+      "website_url": "",
+      "votes_count": 250,
+      "comments_count": 13,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-23T00:01:00-07:00",
+      "thumbnail_url": "f4be11d9-437a-41e3-968b-4dde083e5524.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "name": "Education",
+          "slug": "education"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/note-md"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "note.md 是一个垂直场景产品，核心围绕特定垂直场景中的用户任务展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：本地优先。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：本地优先；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于垂直场景产品方向，周榜排名第 27，获得 250 票、13 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。note.md 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 28,
+      "fallback_rank": 28,
+      "id": "1151420",
+      "name": "WarmIntro",
+      "slug": "warmintro",
+      "tagline": "Free tool to find your warmest path into any company",
+      "description": "Free tool to find your warmest path into any company",
+      "product_url": "https://www.producthunt.com/products/warmintro",
+      "website_url": "",
+      "votes_count": 231,
+      "comments_count": 26,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-21T00:01:00-07:00",
+      "thumbnail_url": "93184e3e-357d-48ec-9aff-e25c22e953c3.jpeg",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/warmintro"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "WarmIntro 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向高频参加会议、展会、商务社交和销售拜访的人；市场、内容、品牌和增长团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "高频参加会议、展会、商务社交和销售拜访的人；市场、内容、品牌和增长团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 28，获得 231 票、26 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。WarmIntro 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 29,
+      "fallback_rank": 29,
+      "id": "1152473",
+      "name": "iPromise",
+      "slug": "ipromise-2",
+      "tagline": "Bring \"Body Doubling\" to your Mac notch",
+      "description": "Bring \"Body Doubling\" to your Mac notch",
+      "product_url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+      "website_url": "",
+      "votes_count": 232,
+      "comments_count": 36,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "9275c2d3-2ee4-45ec-86ef-7bcd649e1b35.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "iPromise 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 29，获得 232 票、36 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。iPromise 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 30,
+      "fallback_rank": 30,
+      "id": "1142097",
+      "name": "Shadow",
+      "slug": "shadow-e5e59df3-abae-4647-89a4-2dca0980e6a2",
+      "tagline": "The interface AI needs. One that sees, hears, and runs.",
+      "description": "The interface AI needs. One that sees, hears, and runs.",
+      "product_url": "https://www.producthunt.com/products/shadow-4",
+      "website_url": "",
+      "votes_count": 222,
+      "comments_count": 14,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-18T00:01:00-07:00",
+      "thumbnail_url": "ff3ba4af-52e1-41a3-9893-5f68be95f072.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "name": "Meetings",
+          "slug": "meetings"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/shadow-4"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Shadow 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 30，获得 222 票、14 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Shadow 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 31,
+      "fallback_rank": 31,
+      "id": "1153432",
+      "name": "WhatCable",
+      "slug": "whatcable",
+      "tagline": "Know what your USB-C cable can really do",
+      "description": "Know what your USB-C cable can really do",
+      "product_url": "https://www.producthunt.com/products/whatcable",
+      "website_url": "",
+      "votes_count": 274,
+      "comments_count": 14,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-24T00:01:00-07:00",
+      "thumbnail_url": "5e617c40-9e12-42c8-b726-3f16192953e6.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        },
+        {
+          "name": "Apple",
+          "slug": "apple"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/whatcable"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "WhatCable 是一个垂直场景产品，核心围绕特定垂直场景中的用户任务展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于垂直场景产品方向，周榜排名第 31，获得 274 票、14 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "硬件交付、供应链、售后和库存会显著增加执行难度；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。WhatCable 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 32,
+      "fallback_rank": 32,
+      "id": "1151769",
+      "name": "Slideshot",
+      "slug": "slideshot",
+      "tagline": "Product demo videos, recorded by your AI agent",
+      "description": "Product demo videos, recorded by your AI agent",
+      "product_url": "https://www.producthunt.com/products/slideshot",
+      "website_url": "",
+      "votes_count": 217,
+      "comments_count": 36,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-21T00:01:00-07:00",
+      "thumbnail_url": "8545290d-3288-4d24-af43-1bc624db91e4.svg",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/slideshot"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Slideshot 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向开发者、工程团队和技术负责人；市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；市场、内容、品牌和增长团队；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 32，获得 217 票、36 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Slideshot 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 33,
+      "fallback_rank": 33,
+      "id": "1144780",
+      "name": "Motion",
+      "slug": "motion-10",
+      "tagline": "A video agent for tasteful motion design",
+      "description": "A video agent for tasteful motion design",
+      "product_url": "https://www.producthunt.com/products/motion-8",
+      "website_url": "",
+      "votes_count": 203,
+      "comments_count": 48,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "cb013753-b5dc-43f3-a1df-f9984eac16bb.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Animation",
+          "slug": "animation"
+        },
+        {
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/motion-8"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Motion 是一个设计/创意工具，核心围绕设计协作、创意生成、原型制作或视觉生产展开。它面向设计师、产品经理和前端团队；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "设计师、产品经理和前端团队；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于设计/创意工具方向，周榜排名第 33，获得 203 票、48 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Motion 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 34,
+      "fallback_rank": 34,
+      "id": "1153270",
+      "name": "RetroMac",
+      "slug": "retromac",
+      "tagline": "Turn your Mac into a time machine.",
+      "description": "Turn your Mac into a time machine.",
+      "product_url": "https://www.producthunt.com/products/retromac",
+      "website_url": "",
+      "votes_count": 210,
+      "comments_count": 6,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-23T00:01:00-07:00",
+      "thumbnail_url": "54ed8bd1-4036-4a86-a87f-3f5b22e9fb24.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "name": "Funny",
+          "slug": "funny"
+        },
+        {
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/retromac"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "RetroMac 是一个垂直场景产品，核心围绕特定垂直场景中的用户任务展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于垂直场景产品方向，周榜排名第 34，获得 210 票、6 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。RetroMac 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 35,
+      "fallback_rank": 35,
+      "id": "1148800",
+      "name": "Chert",
+      "slug": "chert",
+      "tagline": "Build AI agents that text customers in iMessage",
+      "description": "Build AI agents that text customers in iMessage",
+      "product_url": "https://www.producthunt.com/products/chert",
+      "website_url": "",
+      "votes_count": 191,
+      "comments_count": 80,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "e66b9f3a-dc19-436b-b3b4-7c446053582e.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/chert"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Chert 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 35，获得 191 票、80 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Chert 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 36,
+      "fallback_rank": 36,
+      "id": "1151121",
+      "name": "Auto Posts",
+      "slug": "auto-posts",
+      "tagline": "Schedule social post, Telegram messages + more",
+      "description": "Schedule social post, Telegram messages + more",
+      "product_url": "https://www.producthunt.com/products/auto-posts",
+      "website_url": "",
+      "votes_count": 181,
+      "comments_count": 27,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "6904bc81-305c-4831-8f38-04d7e859e2b9.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "name": "Alpha",
+          "slug": "alpha"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/auto-posts"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Auto Posts 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 36，获得 181 票、27 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "社交/网络效应产品需要解决冷启动和持续使用频率；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Auto Posts 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 37,
+      "fallback_rank": 37,
+      "id": "1152875",
+      "name": "Edgee Fallback Models",
+      "slug": "edgee-fallback-models",
+      "tagline": "Claude Code that never stops",
+      "description": "Claude Code that never stops",
+      "product_url": "https://www.producthunt.com/products/edgee",
+      "website_url": "",
+      "votes_count": 187,
+      "comments_count": 21,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-24T00:01:00-07:00",
+      "thumbnail_url": "cea13bd0-7efd-4a1c-b99a-d4cb7b1e4276.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/edgee"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Edgee Fallback Models 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 37，获得 187 票、21 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Edgee Fallback Models 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 38,
+      "fallback_rank": 38,
+      "id": "1146902",
+      "name": "Re_gent",
+      "slug": "re_gent",
+      "tagline": "Version Control for AI agent Activity",
+      "description": "Version Control for AI agent Activity",
+      "product_url": "https://www.producthunt.com/products/re_gent",
+      "website_url": "",
+      "votes_count": 184,
+      "comments_count": 34,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "1f0471d2-a445-4750-8efa-4b0beb81b82d.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/re_gent"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Re_gent 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 38，获得 184 票、34 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Re_gent 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 39,
+      "fallback_rank": 39,
+      "id": "1149482",
+      "name": "M1 by Montage",
+      "slug": "m1-by-montage",
+      "tagline": "Agentic UI that scales on demand",
+      "description": "Agentic UI that scales on demand",
+      "product_url": "https://www.producthunt.com/products/montage-3",
+      "website_url": "",
+      "votes_count": 169,
+      "comments_count": 14,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-18T00:01:00-07:00",
+      "thumbnail_url": "254bfb97-b897-4201-8fbb-31290296cac2.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/montage-3"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "M1 by Montage 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；设计师、产品经理和前端团队；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；设计师、产品经理和前端团队；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 39，获得 169 票、14 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。M1 by Montage 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 40,
+      "fallback_rank": 40,
+      "id": "1152061",
+      "name": "moop",
+      "slug": "moop",
+      "tagline": "A social network without media",
+      "description": "A social network without media",
+      "product_url": "https://www.producthunt.com/products/moop",
+      "website_url": "",
+      "votes_count": 177,
+      "comments_count": 29,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "9fb2a0bd-d0a2-457d-adee-4d495ce5bb5a.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "name": "Books",
+          "slug": "books"
+        },
+        {
+          "name": "Alpha",
+          "slug": "alpha"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/moop"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "moop 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向高频参加会议、展会、商务社交和销售拜访的人；市场、内容、品牌和增长团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "高频参加会议、展会、商务社交和销售拜访的人；市场、内容、品牌和增长团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 40，获得 177 票、29 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "社交/网络效应产品需要解决冷启动和持续使用频率；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。moop 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 41,
+      "fallback_rank": 41,
+      "id": "1150303",
+      "name": "Monocle 3.5 for macOS",
+      "slug": "monocle-3-5-for-macos",
+      "tagline": "Noise-cancelling for your  screen",
+      "description": "Noise-cancelling for your  screen",
+      "product_url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
+      "website_url": "",
+      "votes_count": 170,
+      "comments_count": 16,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "f7142edb-b424-4022-896f-2f736c80eaf4.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "User Experience",
+          "slug": "user-experience"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Monocle 3.5 for macOS 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 41，获得 170 票、16 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Monocle 3.5 for macOS 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 42,
+      "fallback_rank": 42,
+      "id": "1146493",
+      "name": "Voker",
+      "slug": "voker",
+      "tagline": "The Agent Analytics Platform for AI Product Teams",
+      "description": "The Agent Analytics Platform for AI Product Teams",
+      "product_url": "https://www.producthunt.com/products/voker",
+      "website_url": "",
+      "votes_count": 161,
+      "comments_count": 38,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "bf0ce469-c9d9-495d-aaf6-1ac1b3cd2c3d.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/voker"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Voker 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 42，获得 161 票、38 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Voker 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 43,
+      "fallback_rank": 43,
+      "id": "1123370",
+      "name": "Bulkmark",
+      "slug": "bulkmark-2",
+      "tagline": "Transform your Twitter/X Bookmarks into real knowledge",
+      "description": "Transform your Twitter/X Bookmarks into real knowledge",
+      "product_url": "https://www.producthunt.com/products/bulkmark-2",
+      "website_url": "",
+      "votes_count": 161,
+      "comments_count": 14,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-23T00:01:00-07:00",
+      "thumbnail_url": "33a67e81-f3d2-482c-8351-beff4bc64165.vnd.microsoft.icon",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Newsletters",
+          "slug": "newsletters"
+        },
+        {
+          "name": "Social Media",
+          "slug": "social-media"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/bulkmark-2"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Bulkmark 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 43，获得 161 票、14 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "社交/网络效应产品需要解决冷启动和持续使用频率；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Bulkmark 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 44,
+      "fallback_rank": 44,
+      "id": "1150811",
+      "name": "Supercut for Agents",
+      "slug": "supercut-for-agents",
+      "tagline": "Permission-aware AI access to recordings and metadata",
+      "description": "Permission-aware AI access to recordings and metadata",
+      "product_url": "https://www.producthunt.com/products/supercut",
+      "website_url": "",
+      "votes_count": 158,
+      "comments_count": 15,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "3ee5449e-b707-4542-a190-796294740177.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/supercut"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Supercut for Agents 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 44，获得 158 票、15 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Supercut for Agents 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 45,
+      "fallback_rank": 45,
+      "id": "1138517",
+      "name": "Prosed",
+      "slug": "prosed",
+      "tagline": "Go from newsletters & podcasts to published manuscript",
+      "description": "Go from newsletters & podcasts to published manuscript",
+      "product_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "website_url": "",
+      "votes_count": 154,
+      "comments_count": 28,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-22T00:01:00-07:00",
+      "thumbnail_url": "b2920ef3-6f1b-48c3-8549-ccb2dd86ef9c.svg",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "name": "Books",
+          "slug": "books"
+        },
+        {
+          "name": "Alpha",
+          "slug": "alpha"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Prosed 是一个垂直场景产品，核心围绕特定垂直场景中的用户任务展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于垂直场景产品方向，周榜排名第 45，获得 154 票、28 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Prosed 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 46,
+      "fallback_rank": 46,
+      "id": "1146582",
+      "name": "Runway Agent",
+      "slug": "runway-agent",
+      "tagline": "Generate edited, sound-designed videos via chat",
+      "description": "Generate edited, sound-designed videos via chat",
+      "product_url": "https://www.producthunt.com/products/runwayml",
+      "website_url": "",
+      "votes_count": 167,
+      "comments_count": 6,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-24T00:01:00-07:00",
+      "thumbnail_url": "cde602ec-d441-4e0e-b2fc-6f9b519f8bcc.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/runwayml"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Runway Agent 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队；设计师、产品经理和前端团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队；设计师、产品经理和前端团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 46，获得 167 票、6 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "社交/网络效应产品需要解决冷启动和持续使用频率；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Runway Agent 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 47,
+      "fallback_rank": 47,
+      "id": "1150068",
+      "name": "Manus Scheduled Tasks 2.0 ",
+      "slug": "manus-scheduled-tasks-2-0",
+      "tagline": "Run recurring Manus work inside the same task context",
+      "description": "Run recurring Manus work inside the same task context",
+      "product_url": "https://www.producthunt.com/products/manus",
+      "website_url": "",
+      "votes_count": 162,
+      "comments_count": 5,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "a842fb62-c77e-4466-8206-86bf8780e048.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/manus"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Manus Scheduled Tasks 2.0 是一个效率工具，核心围绕个人或团队工作流、信息整理、提醒、会议或自动化执行展开。它面向该垂直场景的早期采用者、创业团队或专业用户，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "该垂直场景的早期采用者、创业团队或专业用户",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。公开页面暂未披露明确技术栈或集成细节。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面未披露明确技术栈；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于效率工具方向，周榜排名第 47，获得 162 票、5 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Manus Scheduled Tasks 2.0  值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 48,
+      "fallback_rank": 48,
+      "id": "1148072",
+      "name": "Retina",
+      "slug": "retina-2",
+      "tagline": "Screen recorder w/ auto-zoom, smooth cursors, + AI graphics",
+      "description": "Screen recorder w/ auto-zoom, smooth cursors, + AI graphics",
+      "product_url": "https://www.producthunt.com/products/retina-2",
+      "website_url": "",
+      "votes_count": 152,
+      "comments_count": 28,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "8eb28006-c3e1-4898-bae9-9a9c760c5796.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/retina-2"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Retina 是一个设计/创意工具，核心围绕设计协作、创意生成、原型制作或视觉生产展开。它面向设计师、产品经理和前端团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "设计师、产品经理和前端团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于设计/创意工具方向，周榜排名第 48，获得 152 票、28 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Retina 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 49,
+      "fallback_rank": 49,
+      "id": "1149987",
+      "name": "Insights by Omnia",
+      "slug": "insights-by-omnia",
+      "tagline": "Step-by-step action plans to improve your AI visibility.",
+      "description": "Step-by-step action plans to improve your AI visibility.",
+      "product_url": "https://www.producthunt.com/products/omnia-2",
+      "website_url": "",
+      "votes_count": 152,
+      "comments_count": 22,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-19T00:01:00-07:00",
+      "thumbnail_url": "db9db39e-238a-422b-a1c2-63b030bfc898.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/omnia-2"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Insights by Omnia 是一个营销/增长工具，核心围绕内容生产、渠道分发、品牌增长或获客转化展开。它面向市场、内容、品牌和增长团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "市场、内容、品牌和增长团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于营销/增长工具方向，周榜排名第 49，获得 152 票、22 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Insights by Omnia 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    },
+    {
+      "rank": 50,
+      "fallback_rank": 50,
+      "id": "1150430",
+      "name": "Viberia",
+      "slug": "viberia",
+      "tagline": "Command AI agents like you're playing Civilization",
+      "description": "Command AI agents like you're playing Civilization",
+      "product_url": "https://www.producthunt.com/products/viberia",
+      "website_url": "",
+      "votes_count": 154,
+      "comments_count": 26,
+      "reviews_count": 0,
+      "reviews_rating": 0,
+      "featured_at": "2026-05-20T00:01:00-07:00",
+      "thumbnail_url": "815cc4a4-55f1-4399-a16f-9b77c5ef989b.png",
+      "media": [],
+      "product_links": [],
+      "makers": [],
+      "topics": [
+        {
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "comments": [],
+      "website": {
+        "status": "missing",
+        "url": "",
+        "final_url": "",
+        "title": "",
+        "description": "",
+        "headings": [],
+        "text_excerpt": ""
+      },
+      "feedback": {
+        "sample_size": 0,
+        "summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "themes": [],
+        "top_comments": []
+      },
+      "sources": [
+        {
+          "type": "producthunt",
+          "url": "https://www.producthunt.com/products/viberia"
+        }
+      ],
+      "analysis": {
+        "what_it_does": "Viberia 是一个开发者工具，核心围绕代码、接口、工程协作、开发工作流或技术集成展开。它面向开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队，目标是把相关流程做得更清晰、更自动或更容易持续执行。当前已核验榜单详情页和官网入口，官网信息可解析度有限；具体价格、交付成熟度和长期留存仍需要继续跟踪。",
+        "target_users": "开发者、工程团队和技术负责人；希望把 AI agent 或自动化接入工作流的团队",
+        "official_details": "已从详情页取得官网入口，但自动抓取没有解析到足够正文，官网补充需要后续人工复核。可确认的公开线索包括：人工智能能力。未看到明确披露的价格、模型供应商、云厂商、数据库或后端框架时，统一按未公开处理。",
+        "technical_signals": "公开页面可确认的技术/数据线索：人工智能能力；分类标签只作为主题参考，不等同于技术栈。；未公开信息不做推断：后端框架、数据库、云厂商、模型供应商、安全架构等只有在官网、文档、源码或招聘页明确出现时才记录。",
+        "market_context": "它属于开发者工具方向，周榜排名第 50，获得 154 票、26 条评论。这个数据说明早期受众愿意讨论和投票，但仍只是发布热度信号；真正市场情况还需要继续验证付费转化、留存、获客渠道和替代方案强度。分类标签已保留在项目卡片上方，本栏不把标签当作市场结论。",
+        "feedback_summary": "详情页可解析评论样本有限；当前仅确认该项目有评论互动，尚不足以归纳稳定用户反馈主题。",
+        "risks": "人工智能能力需要证明稳定性、成本可控和相对普通自动化的差异；榜单热度不能直接证明收入、留存或规模化获客。",
+        "verdict": "已完成详情页和官网级别的基础富集。Viberia 值得继续观察，但下一步应验证真实用户留存、付费意愿、核心功能是否如发布页承诺，以及与现有替代方案相比的差异是否足够强。"
+      },
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-06-09T03:05:16+00:00"
+    }
+  ]
+}
