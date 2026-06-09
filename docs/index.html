@@ -130,7 +130,8 @@
     const weekFilter = document.getElementById('weekFilter');
     const rankFilter = document.getElementById('rankFilter');
 
-    for (const week of DATA.weeks) {
+    const weekOptions = [...DATA.weeks].sort((a, b) => (b.year - a.year) || (b.week - a.week));
+    for (const week of weekOptions) {
       const option = document.createElement('option');
       option.value = `${week.year}-W${String(week.week).padStart(2, '0')}`;
       option.textContent = `${option.value} · ${week.week_start} → ${week.week_end}`;
